@@ -7,7 +7,6 @@ There is 2 options for implementation. By running `3D_Vessel_Analysis.exe` in th
 
 
 ### Implementation Detail
-![Option_setting2](){: width="70%" height="70%"}
 <img src="[https://i.pinimg.com/originals/20/78/a9/2078a921387fb535735b19820175bacf.jpg](https://user-images.githubusercontent.com/86834176/193609517-ee0f14b9-c7d8-448d-8148-49b5341fa92c.png)" width="500">
 
 
