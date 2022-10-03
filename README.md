@@ -8,7 +8,7 @@ There is 2 options for implementation. By running `3D_Vessel_Analysis.exe` in th
 
 ### Implementation Detail
 <p align="center">
-<img src="https://user-images.githubusercontent.com/86834176/193609517-ee0f14b9-c7d8-448d-8148-49b5341fa92c.png" width="700">
+<img src="https://user-images.githubusercontent.com/86834176/193609517-ee0f14b9-c7d8-448d-8148-49b5341fa92c.png" width="600">
 </p>
 
 First, choose the folder that contains the 2D slice images of the vascular network. Each image should be binarized for loading. You can apply pertinent pre-processing for those images. Loaded 3D vascular network can be previewed in the `Options` tab. Details for each parameter is explained in `modulized_dimensional_analysis.m` file.
