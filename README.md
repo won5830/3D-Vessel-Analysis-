@@ -20,4 +20,4 @@ First, choose the folder that contains the 2D slice images of the vascular netwo
 Following confirmation, you may finally analyze the provided vascular network by pressing the `Show` button. By choosing the relevant number, you may explore each node point or link. On the left side of the application panel are specific study parameters, and on the right are images that correspond to the selected node and link.
 
 ### Acknowledgement
-This repo is heavily built on [Skeleton3D](https://kr.mathworks.com/matlabcentral/fileexchange/43400-skeleton3d) code.
+This repo is heavily built on [Skeleton3D](https://kr.mathworks.com/matlabcentral/fileexchange/43400-skeleton3d) and [Skel2Graph 3D](https://kr.mathworks.com/matlabcentral/fileexchange/43527-skel2graph-3d) codes.
